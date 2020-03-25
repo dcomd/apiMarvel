@@ -19,10 +19,11 @@
     <ImageView
         android:id="@+id/imageMagazine"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginTop="5dp"
         app:layout_constraintEnd_toEndOf="@id/toolBarMain"
         app:layout_constraintStart_toStartOf="@id/toolBarMain"
-        app:layout_constraintTop_toTopOf="@id/toolBarMain"
+        app:layout_constraintTop_toBottomOf="@id/toolBarMain"
         tools:src="@tools:sample/avatars" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
