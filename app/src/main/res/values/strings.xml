@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">desafio-android-alexandre-nepomuceno</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="erro_post_value">Erro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
